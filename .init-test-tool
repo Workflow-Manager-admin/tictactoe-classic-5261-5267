@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/tictactoe-classic-5261-5267/main_container_for_tictactoe_classic"
+}
